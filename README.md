@@ -1,4 +1,4 @@
 # WeatherChecker
-<img src="1(1)" width="324" height="300">
-<img src="1(2)" width="324" height="300">
-<img src="1(3)" width="324" height="300">
+<img src="a.jpeg" width="324" height="500">
+<img src="b.jpeg" width="324" height="500">
+<img src="c.jpeg" width="324" height="500">
